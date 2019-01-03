@@ -7,4 +7,5 @@ def prime?(num)
     return false if num % counter == 0 
     true
   end
+  end
 end
