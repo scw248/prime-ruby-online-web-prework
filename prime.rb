@@ -3,5 +3,5 @@
 
 def prime?(num)
   return false if num <= 1
-  for 
+  for counter in 2..num 
 end
